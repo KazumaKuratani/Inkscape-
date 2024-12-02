@@ -120,6 +120,8 @@ main {
   .head {
     padding-top: 3%;
     padding-bottom: 6%;
+    width: 100%;
+    margin-left: 0%;
   }
 }
 
@@ -329,7 +331,7 @@ aside {
 }
 
 .index {
-  margin-top: 770px;
+  margin-top: 1020px;
   /* flex: 1; */
   position: sticky;
   top: 100px;
@@ -1274,7 +1276,7 @@ p {
 footer {
   height: 80px;
   width: 100%;
-  background-color: #f7fbff;
+  background-color: rgb(212, 238, 255);
   display: flex;
   justify-content: center;
   align-items: center;
