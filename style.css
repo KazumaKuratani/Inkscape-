@@ -1280,6 +1280,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 5%;
 }
 @media (width >= 768px) {
   footer {
