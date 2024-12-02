@@ -100,6 +100,8 @@ main{
   @include min(xl){
     padding-top: 3%;
     padding-bottom: 6%;
+     width: 100%;
+     margin-left: 0%;
   }
 }
 .head-section{
@@ -304,7 +306,7 @@ aside{
 
 
 .index {
-  margin-top: 770px;
+  margin-top: 1020px;
   /* flex: 1; */
   position: sticky;
   top: 100px;
